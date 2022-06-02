@@ -24,5 +24,6 @@ public class Plus extends AbstractOperation implements BinaryOperation {
 	public String getName() {
 		return "+";
 	}
+	//Noch ein Kommentar in einer anderen Datei
 
 }
